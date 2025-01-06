@@ -4,9 +4,9 @@
 
 ## Overview
 
-**Project-Kappa** demonstrates the construction of a robust real-time data engineering pipeline using cutting-edge tools and technologies. The project processes streaming data in real-time, performs sentiment analysis with OpenAI's ChatGPT, and ensures efficient data indexing and querying with Elasticsearch. 
+**Project-Kappa** demonstrates the construction of a robust real-time data engineering pipeline using cutting-edge tools and technologies. The project processes streaming data in real time, performs sentiment analysis with OpenAI's ChatGPT, and ensures efficient data indexing and querying with Elasticsearch. 
 
-This repository provides a step-by-step guide, codebase, and configurations necessary to build and execute the pipeline.
+This repository provides a step-by-step guide, codebase, and configuration to build and execute the pipeline.
 
 ## Features
 
